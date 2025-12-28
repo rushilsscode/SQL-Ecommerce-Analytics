@@ -9,7 +9,7 @@ This project analyzes an e-commerce database to uncover insights related to sale
 - MySQL Workbench
 
 ## 🗄️ Database Schema
-![Schema Diagram](screenshots/schema_diagram.png)
+![Schema Diagram](schema_diagram.png)
 
 ## 📊 Key Analysis
 - Monthly revenue trends
