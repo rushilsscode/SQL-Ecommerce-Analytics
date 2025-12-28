@@ -97,4 +97,3 @@ INSERT INTO payments VALUES
 (518,1018,'Credit Card','Success'),
 (519,1019,'UPI','Success'),
 (520,1020,'Credit Card','Success');
-
